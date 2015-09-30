@@ -4,4 +4,4 @@ return p1 * p2;
 
 var sum = multiply(5,3);
 console.log(sum);
-print(sum);\n
+print(sum);
